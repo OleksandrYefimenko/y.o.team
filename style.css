@@ -1,0 +1,133 @@
+body{
+	font-family: Arial;
+	margin: 0;
+}
+.blackLine{
+	background-color: #2d2d2d;
+	padding-top: 20px;
+}
+
+.midleZone{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.listUp{
+	list-style: none;
+	color: white;
+	text-align: left;
+	background-color: #2d2d2d;
+	padding: 15px 0 15px 0;
+	margin: 0;
+}
+
+.listUp li{
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.listUp li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.listUp li a:hover{
+	text-decoration: underline;
+	color: blue;
+}
+
+.headerImage{
+ 	background-image: url('./Image1.jpg');
+ 	background-repeat: no-repeat;
+ 	height: 570px;
+ 	background-size: 100%;
+}
+
+.greenZone{
+  	background-color: #63baa9;
+}
+
+.greenMiddle{
+	width: 800px;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+
+.zagolovok{
+	color: white;
+	font-size: 22px;
+	float: left;
+}
+
+.whiteLine{
+	border-top: 2px solid #fff;
+	height: 2px;
+	width: 610px;
+	float: right;
+	margin-top: 13px;
+}
+
+.blocks {
+	padding: 0;
+	list-style: none;
+	margin-top: 50px;
+}
+
+.blocks li{
+	width: 226px;
+	float: left;
+	height: 130px;
+	background-color: white;
+	margin-top: 11px;
+	color: red;
+}
+
+.blocks .colon{
+	margin: 11px 11px 0 11px;
+}
+
+.clear{
+	clear: both;
+}
+
+.krasna{
+	width: 493px !important;
+	background-color: red !important;
+	margin-right: 11px;
+	height: 190px !important;
+	color: #fff !important;
+	padding: 20px 15px;
+}
+
+.blocks li:nth-child(2) {
+	height: 160px !important;
+	padding: 50px 15px 20px 15px !important;
+}
+
+.textBlock{
+	color: black;
+}
+
+.greyZone{
+	background-color: #303646;
+}
+
+.greyMiddle{
+	width: 800px;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+.zagolovok2{
+	color: white;
+	font-size: 22px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
